@@ -1,6 +1,7 @@
 Este es un archivo de prueba
 
-Mi nombre es Hernan Dario Buitrago Morales, tengo 28 años, vivo en Bogotá y trabajo en Quala.
+Mi nombre es Hernan Dario Buitrago Morales, tengo 28 años pero ya casi 29, vivo en Bogotá. 
+Trabajo en Quala y recientemente fui ascendido al cargo de ingeniero de proyectos.
 
 Estamos en medio de la cuarentena por covid 19 (coro navirus)
 
