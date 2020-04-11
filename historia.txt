@@ -7,3 +7,5 @@ Estamos en medio de la cuarentena por covid 19 (coro navirus)
 Hoy es 8 de Abril de 2020
 
 ESTE ES EL REEMPLAZO DEL PRIMER COMMIT QUE RECUPERÉ, VAMOS A VER QUE PASA
+
+voy a hacer una prueba del git rm
