@@ -2,4 +2,14 @@ body
 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+#cabecera
+{
+    color: black;
+    text-align: left;
+    font-family: cursive;
+    border: 1px;
+    border-color: black;
 }
