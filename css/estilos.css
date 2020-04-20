@@ -13,3 +13,9 @@ body
     border: 1px;
     border-color: black;
 }
+
+#footer
+{
+    background-color: cadetblue;
+    color: whitesmoke;
+}
